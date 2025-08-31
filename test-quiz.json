@@ -6,7 +6,7 @@
     "mode": "open",               
     "password": "secret123",     
     "passingScore": 2,  
-    "allowBack":true,
+    "allowBack":false,
     "totalItems": 4,
     "shuffleQuestions": true,
     "shuffleChoices": true

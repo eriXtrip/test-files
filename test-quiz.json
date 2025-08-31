@@ -1,0 +1,50 @@
+{
+  "quizId": "IT101-M1-Q1",
+  "title": "Basic IT Concepts",
+  "type": "mixed", 
+  "settings": {
+    "mode": "open",               
+    "password": "secret123",     
+    "passingScore": 7,          
+    "totalItems": 10,
+    "shuffleQuestions": true,
+    "shuffleChoices": true
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "multichoice",
+      "question": "What does HTML stand for?",
+      "choices": [
+        { "text": "Hyper Text Markup Language", "points": 1 },
+        { "text": "High Tech Multi Language", "points": 0 },
+        { "text": "Hyper Transfer Markup Language", "points": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "enumeration",
+      "question": "List two NoSQL databases.",
+      "answer": ["MongoDB", "Cassandra"],
+      "points": 2
+    },
+    {
+      "id": 3,
+      "type": "truefalse",
+      "question": "JavaScript is the same as Java.",
+      "answer": false,
+      "points": 1
+    },
+    {
+      "id": 4,
+      "type": "multiselect",
+      "question": "Which of the following are programming languages?",
+      "choices": [
+        { "text": "Python", "points": 1 },
+        { "text": "C++", "points": 1 },
+        { "text": "HTML", "points": 0 }
+      ],
+      "maxPoints": 2
+    }
+  ]
+}

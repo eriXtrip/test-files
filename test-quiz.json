@@ -5,7 +5,8 @@
   "settings": {
     "mode": "open",               
     "password": "secret123",     
-    "passingScore": 7,          
+    "passingScore": 7,  
+    "allowBack":true,
     "totalItems": 10,
     "shuffleQuestions": true,
     "shuffleChoices": true

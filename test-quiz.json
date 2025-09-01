@@ -8,6 +8,7 @@
     "passingScore": 2,  
     "allowBack":false,
     "instantFeedback":true,
+    "review":true,
     "totalItems": 4,
     "shuffleQuestions": true,
     "shuffleChoices": true

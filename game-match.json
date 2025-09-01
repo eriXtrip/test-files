@@ -38,6 +38,36 @@
       "id": 6,
       "term": "Fire",
       "definition": "Rapid oxidation producing heat and light"
+    },
+    {
+      "id": 7,
+      "term": "Air",
+      "definition": "Mixture of gases surrounding Earth"
+    },
+    {
+      "id": 8,
+      "term": "Gravity",
+      "definition": "Force that attracts objects toward each other"
+    },
+    {
+      "id": 9,
+      "term": "Oxygen",
+      "definition": "Gas essential for respiration"
+    },
+    {
+      "id": 10,
+      "term": "Electricity",
+      "definition": "Flow of electric charge"
+    },
+    {
+      "id": 11,
+      "term": "Magnet",
+      "definition": "Object that attracts iron and steel"
+    },
+    {
+      "id": 12,
+      "term": "Cloud",
+      "definition": "Visible collection of water droplets in the sky"
     }
   ]
 }

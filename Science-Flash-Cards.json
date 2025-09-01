@@ -1,0 +1,52 @@
+{
+  "gameID": "flash001",
+  "title": "Basic Science Flash Cards",
+  "type": "flashcard",
+  "settings": {
+    "shuffleCards": true,
+    "mode": "study",
+    "instantFeedback": true
+  },
+  "items": [
+    {
+      "id": 1,
+      "term": "Sun",
+      "definition": "Star at the center of our solar system"
+    },
+    {
+      "id": 2,
+      "term": "Moon",
+      "definition": "Earth's natural satellite"
+    },
+    {
+      "id": 3,
+      "term": "Earth",
+      "definition": "The planet we live on"
+    },
+    {
+      "id": 4,
+      "term": "Water",
+      "definition": "H2O, essential for all living things"
+    },
+    {
+      "id": 5,
+      "term": "Tree",
+      "definition": "A plant with a trunk and branches"
+    },
+    {
+      "id": 6,
+      "term": "Fire",
+      "definition": "Rapid oxidation producing heat and light"
+    },
+    {
+      "id": 7,
+      "term": "Air",
+      "definition": "Mixture of gases surrounding the Earth"
+    },
+    {
+      "id": 8,
+      "term": "Gravity",
+      "definition": "Force that attracts objects toward the Earth"
+    }
+  ]
+}

@@ -6,9 +6,9 @@
     "mode": "open",               
     "password": "secret123",     
     "passingScore": 2,  
-    "allowBack":false,
-    "instantFeedback":true,
-    "review":true,
+    "allowBack":true,
+    "instantFeedback":false,
+    "review":false,
     "totalItems": 4,
     "shuffleQuestions": true,
     "shuffleChoices": true

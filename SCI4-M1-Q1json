@@ -6,7 +6,7 @@
     "mode": "open",
     "password": "",
     "passingScore": 6,
-    "allowBack": true,
+    "allowBack": false,
     "instantFeedback": true,
     "review": true,
     "totalItems": 10,

@@ -3,7 +3,7 @@
   "title": "Basic IT Concepts",
   "type": "mixed", 
   "settings": {
-    "mode": "open",               
+    "mode": "close",               
     "password": "secret123",     
     "passingScore": 2,  
     "allowBack":true,

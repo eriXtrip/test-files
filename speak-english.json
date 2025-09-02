@@ -4,8 +4,6 @@
   "type": "speak",
   "settings": {
     "shuffleSentences": true,
-    "attemptsAllowed": 3,
-    "instantFeedback": true
   },
   "items": [
     {

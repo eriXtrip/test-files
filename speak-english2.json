@@ -1,0 +1,46 @@
+{
+  "gameID": "speak001",
+  "title": "Speak This Sentence - English",
+  "type": "speak",
+  "settings": {
+    "shuffleSentences": true,
+  },
+  "items": [
+    {
+      "id": 1,
+      "sentence": "The cat is sleeping on the sofa."
+    },
+    {
+      "id": 2,
+      "sentence": "I like to read books in the library."
+    },
+    {
+      "id": 3,
+      "sentence": "My favorite fruit is a juicy mango."
+    },
+    {
+      "id": 4,
+      "sentence": "We are going to the park after school."
+    },
+    {
+      "id": 5,
+      "sentence": "The sun rises in the east every morning."
+    },
+    {
+      "id": 6,
+      "sentence": "I brush my teeth twice a day."
+    },
+    {
+      "id": 7,
+      "sentence": "My little brother loves to play soccer."
+    },
+    {
+      "id": 8,
+      "sentence": "She is drawing a colorful rainbow."
+    },
+    {
+      "id": 9,
+      "sentence": "May nahulog sa sapa."
+    }
+  ]
+}

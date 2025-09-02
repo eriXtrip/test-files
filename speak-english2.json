@@ -4,6 +4,8 @@
   "type": "speak",
   "settings": {
     "shuffleSentences": true,
+    "attemptsAllowed": 3,
+    "instantFeedback": true
   },
   "items": [
     {
@@ -36,11 +38,7 @@
     },
     {
       "id": 8,
-      "sentence": "She is drawing a colorful rainbow."
-    },
-    {
-      "id": 9,
-      "sentence": "May nahulog sa sapa."
+      "sentence": "Ayaw ko na."
     }
   ]
 }

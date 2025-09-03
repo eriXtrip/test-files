@@ -4,9 +4,9 @@
   "type": "angleMathHunt",
   "badge": {
     "title": "Angle & Math Master",
-    "points": 100,
+    "subtext": "Completed all angle challenges",
     "icon": "medal-outline",
-    "color": "#FFD700"
+    "color": "#e83849"
   },
   "items": [
     {

@@ -1,0 +1,51 @@
+{
+  "gameID": "angle_math001",
+  "title": "Angles & Math Challenge",
+  "type": "angleMathHunt",
+  "badge": {
+    "title": "Angle & Math Master",
+    "points": 100,
+    "icon": "medal-outline",
+    "color": "#FFD700"
+  },
+  "items": [
+    {
+      "id": 1,
+      "question": "3 + 4 × 9",
+      "questionType": "text",
+      "choices": [
+        { "id": "c1", "type": "text", "label": "39" },
+        { "id": "c2", "type": "text", "label": "93" },
+        { "id": "c3", "type": "text", "label": "63" },
+        { "id": "c4", "type": "text", "label": "38" },
+        { "id": "c5", "type": "text", "label": "40" },
+        { "id": "c6", "type": "text", "label": "36" }
+      ],
+      "answer": "c1"
+    },
+    {
+      "id": 2,
+      "question": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/acute.jpg",
+      "questionType": "image",
+      "choices": [
+        { "id": "c1", "type": "text", "label": "Acute" },
+        { "id": "c2", "type": "text", "label": "Right" },
+        { "id": "c3", "type": "text", "label": "Obtuse" },
+        { "id": "c4", "type": "text", "label": "Reflex" }
+      ],
+      "answer": "c1"
+    },
+    {
+      "id": 3,
+      "question": "In this Choices Below, what image shows an Acute Angle?",
+      "questionType": "text",
+      "choices": [
+        { "id": "c1", "type": "image", "img": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/obtuse.jpg" },
+        { "id": "c2", "type": "image", "img": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/right.jpg" },
+        { "id": "c3", "type": "image", "img": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/reflex.jpg" },
+        { "id": "c4", "type": "image", "img": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/acute.jpg" }
+      ],
+      "answer": "c4"
+    }
+  ]
+}

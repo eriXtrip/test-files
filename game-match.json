@@ -69,5 +69,11 @@
       "term": "Cloud",
       "definition": "Visible collection of water droplets in the sky"
     }
-  ]
+  ],
+  "badge": {
+    "title": "Science Match Master",
+    "color": "#0062ff",
+    "icon": "ribbon",
+    "points": 20
+  }
 }

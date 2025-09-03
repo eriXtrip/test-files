@@ -53,6 +53,6 @@
     "title": "Science Explorer",
     "color": "#893bc4",
     "icon": "planet",
-    "points": 15
+    "subtext": "Curiosity unlocked!"
   }
 }

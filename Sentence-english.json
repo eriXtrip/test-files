@@ -42,4 +42,10 @@
       "definition": "Sleeping means to rest with eyes closed and not awake."
     }
   ]
+  "badge": {
+    "title": "Sentence Master",
+    "color": "#FFD700",
+    "icon": "trophy",      
+    "points": 10
+  }
 }

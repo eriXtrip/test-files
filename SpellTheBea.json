@@ -1,0 +1,51 @@
+{
+  "gameID": "Sentence001",
+  "title": "Complete the Sentence - English",
+  "type": "sentence",
+  "settings": {
+    "shuffle": true
+  },
+  "items": [
+    {
+      "id": 1,
+      "sentence1": "She likes to",
+      "sentence2": "books.",
+      "answer": "read",
+      "definition": "Read means to look at and understand written words."
+    },
+    {
+      "id": 2,
+      "sentence1": "The sun",
+      "sentence2": "in the morning.",
+      "answer": "rises",
+      "definition": "Rises means to move upward or appear above the horizon."
+    },
+    {
+      "id": 3,
+      "sentence1": "My father is",
+      "sentence2": "a car.",
+      "answer": "driving",
+      "definition": "Driving means to control and operate a vehicle."
+    },
+    {
+      "id": 4,
+      "sentence1": "We are going to the",
+      "sentence2": "to buy fruits.",
+      "answer": "market",
+      "definition": "Market means a place where people buy and sell goods."
+    },
+    {
+      "id": 5,
+      "sentence1": "The dog is",
+      "sentence2": "under the tree.",
+      "answer": "sleeping",
+      "definition": "Sleeping means to rest with eyes closed and not awake."
+    }
+  ],
+  "badge": {
+    "title": "Sentence Master",
+    "color": "#FFD700",
+    "icon": "trophy",
+    "points": 10
+  }
+}

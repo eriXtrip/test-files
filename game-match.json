@@ -44,6 +44,6 @@
     "title": "Science Match Master",
     "color": "#0062ff",
     "icon": "ribbon",
-    "points": 20
+    "subtext": "Science whiz unlocked!"
   }
 }

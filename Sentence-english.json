@@ -46,6 +46,6 @@
     "title": "Sentence Master",
     "color": "#FFD700",
     "icon": "trophy",      
-    "points": 10
+    "subtext": "Sentence skills on point!"
   }
 }

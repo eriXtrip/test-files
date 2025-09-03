@@ -13,7 +13,7 @@
     "shuffleQuestions": true,
     "shuffleChoices": true
   },
-  "items": [
+  "questions": [
     {
       "id": 1,
       "type": "multichoice",

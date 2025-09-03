@@ -48,5 +48,11 @@
       "term": "Gravity",
       "definition": "Force that attracts objects toward the Earth"
     }
-  ]
+  ],
+  "badge": {
+    "title": "Science Explorer",
+    "color": "#4CAF50",
+    "icon": "planet",
+    "points": 15
+  }
 }

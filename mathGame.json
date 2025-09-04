@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "question": "In this Choices Below, what image shows an Acute Angle?",
+      "question": "Which image shows an acute angle? ",
       "questionType": "text",
       "choices": [
         { "id": "c1", "type": "image", "img": "https://github.com/eriXtrip/test-files/raw/refs/heads/main/obtuse.jpg" },
